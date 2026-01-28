@@ -13,3 +13,4 @@ Step 6: Stop.
 ![Flowchart](Area_of_Circle.drawio.png)
 
 #Execution:-
+![Execution](Area of Cricle CODE.png)
