@@ -3,7 +3,8 @@ Write a Python program that calculates the area of a circle when the radius is p
 
 #Algorithm:-
 # Algorithm
-[Click here to view Algorithm](Area_of_Circle%20Algo.txt)
+[View Algorithm](Area_of_Circle_Algo.txt)
+
 
 #Flowchart:-
 ![Flowchart](Area_of_Circle.drawio.png)
