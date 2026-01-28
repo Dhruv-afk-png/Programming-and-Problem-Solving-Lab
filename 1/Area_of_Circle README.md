@@ -2,8 +2,7 @@
 Write a Python program that calculates the area of a circle when the radius is provided by the user. Use π = 3.14 and display the area.
 
 #Algorithm:-
-# Algorithm
-[View Algorithm](Area_of_Circle_Algo.txt)
+
 
 
 #Flowchart:-
