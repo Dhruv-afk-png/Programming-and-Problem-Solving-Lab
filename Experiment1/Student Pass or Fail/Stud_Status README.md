@@ -14,7 +14,7 @@ Write a Python program to determine whether a student passed the exam or not bas
 ---
 
 ## Flowchart
-![Flowchart](Area_Of_Triangle.drawio.png)
+![Flowchart](Stud_Status.drawio.png)
 
 ---
 
