@@ -18,5 +18,8 @@ Write a Python program to calculate the area of a rectangle given its length and
 ---
 
 ## Execution
-<img src="https://github.com/user-attachments/assets/9323d1d8-913a-473f-96ec-fb64f2d5c6a8" width="900"/>
+<p align="center">
+  <img src="Area_Of_Rectangle.drawio.png" width="500">
+</p>
+
 
