@@ -5,12 +5,17 @@ Use π = 3.14 and display the area.
 ---
 
 ## Algorithm
-📄 [View Algorithm](Area_of_Circle_Algo.txt)
+1. Start  
+2. Read the radius `r` from the user  
+3. Calculate the area using the formula:  
+   Area = 3.14 × r × r  
+4. Display the area  
+5. Stop  
 
 ---
 
 ## Flowchart
-🖼️ [View Flowchart](Area_of_Circle.drawio.png)
+![Flowchart](Area_of_Circle.drawio.png)
 
 ---
 
