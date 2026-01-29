@@ -4,14 +4,12 @@ Write a Python program to calculate the area of a rectangle given its length and
 ---
 
 ## Algorithm
-Step 1: Start
-Stqp 2: Input the length L of the rectangle
-Step 3: Input the breadth B of the rectangle
-Step 4: Calculate area using the formula
-Step 5: Area=𝐿×𝐵
-Step 6: Display the area
-Step 7: Stop  
-
+1. Start  
+2. Read the length `l` and Width `b`from the user  
+3. Calculate the area using the formula:  
+   Area = l*b  
+4. Display the area  
+5. Stop  
 ---
 
 ## Flowchart
