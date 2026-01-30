@@ -9,115 +9,23 @@ Write a program to find the roots of a quadratic equation, given its coefficient
 1. Start.  
 2. Read the coefficients a, b, and c.
 3. Calculate the discriminant using:-
-𝐷=𝑏^2
-−
-4
-𝑎
-𝑐
-D=b
-2
-−4ac
+   𝐷=𝑏^2−4ac.
+4. If D > 0
+   Compute:-
+            𝑥1=(−𝑏+root𝐷)/2a and 𝑥2=(−𝑏−root𝐷)/2𝑎
+			Display two real and distinct roots.
+5. Else if D = 0
+   Compute:-
+   			𝑥=−𝑏/2𝑎
+			Display equal real roots.
 
-If D > 0
+6. Else (D < 0)
+   Compute:-
+   			Real part = −𝑏/2𝑎
+   			Imaginary part = root(-𝐷)/2a	
+			Display complex roots.
 
-Compute
-
-𝑥
-1
-=
-−
-𝑏
-+
-𝐷
-2
-𝑎
-,
-𝑥
-2
-=
-−
-𝑏
-−
-𝐷
-2
-𝑎
-x
-1
-	​
-
-=
-2a
-−b+
-D
-	​
-
-	​
-
-,x
-2
-	​
-
-=
-2a
-−b−
-D
-	​
-
-	​
-
-
-Display two real and distinct roots
-
-Else if D = 0
-
-Compute
-
-𝑥
-=
-−
-𝑏
-2
-𝑎
-x=
-2a
-−b
-	​
-
-
-Display equal real roots
-
-Else (D < 0)
-
-Compute
-
-Real part
-=
-−
-𝑏
-2
-𝑎
-Real part=
-2a
-−b
-	​
-
-Imaginary part
-=
-−
-𝐷
-2
-𝑎
-Imaginary part=
-2a
-−D
-	​
-
-	​
-
-
-Display complex roots
-
-Stop
+7. Stop.
 ---
 
 ## Flowchart
