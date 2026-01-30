@@ -29,7 +29,7 @@ Write a program to find the roots of a quadratic equation, given its coefficient
 ---
 
 ## Flowchart
-![Flowchart](Area_Of_Triangle.drawio.png)
+![Flowchart](Roots_Quad_eq.drawio.png)
 
 ---
 
