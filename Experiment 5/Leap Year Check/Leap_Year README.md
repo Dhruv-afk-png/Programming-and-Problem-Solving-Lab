@@ -1,6 +1,6 @@
 
 ## Problem Statement
-Write a Python program to perform union, intersection and difference operations on Set A and Set B.
+Write a Python program that prompts the user to enter a year. The program should determine if the year is a leap year or not and print the appropriate message.
 ---
 
 ## Algorithm
@@ -18,7 +18,7 @@ Write a Python program to perform union, intersection and difference operations 
 ---
 
 ## Flowchart
-![Flowchart](Set_Opp.drawio.png)
+![Flowchart](Leap_Year.drawio.png)
 
 ---
 
