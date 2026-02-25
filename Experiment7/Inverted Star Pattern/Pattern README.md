@@ -21,7 +21,7 @@ Pattern.drawio.png)
 
 ## Execution
 <p align="center">
-  <img src="CTF.png" width="900">
+  <img src="Pattern.png" width="900">
 </p>
 
 
