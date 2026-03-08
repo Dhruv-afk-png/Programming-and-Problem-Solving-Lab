@@ -2,6 +2,7 @@
 Write a Python program to perform the multiplication of two square matrices. The program should take two matrices as input and output their product
 
 ---
+## Algorithim
 
 1.Start.  
 
