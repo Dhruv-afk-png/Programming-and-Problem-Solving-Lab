@@ -3,13 +3,20 @@ Write a Python program to perform the multiplication of two square matrices. The
 
 ---
 
-1️. Input the size n of the square matrix.
-2️. Input elements of Matrix A (n × n).
-3️. Input elements of Matrix B (n × n).
-4️. Create a result matrix R with all elements 0.
-5️. Multiply matrices using nested loops:
-     R[i][j] = R[i][j] + A[i][k] * B[k][j]
-6️. Print the result matrix R.
+1.Start
+2.Input the order n of the square matrices.
+3.Input elements of Matrix A and Matrix B.
+4.Create a result matrix R of size n × n and initialize all elements to 0.
+5.Initialize loop variable i from 0 to n−1.
+6.Inside that, initialize loop variable j from 0 to n−1.
+7.Inside that, initialize loop variable k from 0 to n−1.
+8.Perform multiplication and addition:
+     If inside loops →
+          R[i][j] = R[i][j] + A[i][k] × B[k][j]
+9.Repeat until all loops finish.
+10.Print the result matrix R.
+11.Stop.
+
 ---
 
 ## Flowchart
