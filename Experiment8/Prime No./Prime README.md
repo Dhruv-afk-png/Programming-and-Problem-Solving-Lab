@@ -7,27 +7,31 @@ Write a Python program to print all prime numbers within a given range (inclusiv
 ## Algorithm
 1.Start
 
-2.Input the order n of the square matrices.
+2.Input the values start and stop.
 
-3.Input elements of Matrix A and Matrix B.
+3.Set found = False.
 
-4.Create a result matrix R of size n × n and initialize all elements to 0.
+4.Repeat for each number num from start to stop.
 
-5.Initialize loop variable i from 0 to n−1.
+5.Check if num > 1.
 
-6.Inside that, initialize loop variable j from 0 to n−1.
+6.Repeat for i from 2 to √num.
 
-7.Inside that, initialize loop variable k from 0 to n−1.
+7.Check condition:
 
-8.Perform multiplication and addition:
-  If inside loops →
-    R[i][j] = R[i][j] + A[i][k] × B[k][j]
+  If num % i == 0 → break (number is not prime).
 
-9.Repeat until all loops finish.
+8.If no divisor is found, then:
 
-10.Print the result matrix R.
+  Print num
 
-11.Stop.
+  Set found = True.
+
+9.After the loop, check found.
+
+10.If found == False → Print "No primes".
+
+11.Stop
 
 ---
 
