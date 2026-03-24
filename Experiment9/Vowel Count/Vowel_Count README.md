@@ -1,6 +1,6 @@
 
 ## Problem Statement
-Write a Python program to perform the multiplication of two square matrices. The program should take two matrices as input and output their product.
+Write a program that takes a string as input and prints the total count of vowels in that string. Consider both uppercase and lowercase.
 
 ---
 
