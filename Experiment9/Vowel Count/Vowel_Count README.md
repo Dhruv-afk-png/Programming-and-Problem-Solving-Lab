@@ -23,7 +23,7 @@ Write a program that takes a string as input and prints the total count of vowel
 
 ## Flowchart
 ![Flowchart](
-Matrix.drawio.png)
+VC.drawio.png)
 
 ---
 
