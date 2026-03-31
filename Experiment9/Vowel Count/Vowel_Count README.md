@@ -29,7 +29,7 @@ VC.drawio.png)
 
 ## Execution
 <p align="center">
-  <img src="Matrix.png" width="900">
+  <img src="VC.png" width="900">
 </p>
 
 
