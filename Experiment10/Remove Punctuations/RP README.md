@@ -29,7 +29,7 @@ RP.drawio.png)
 
 ## Execution
 <p align="center">
-  <img src="Palin.png" width="900">
+  <img src="RP.png" width="900">
 </p>
 
 
