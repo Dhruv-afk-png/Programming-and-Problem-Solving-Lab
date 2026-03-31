@@ -25,7 +25,7 @@ Write a Python program to take a string as input and check whether the given str
 
 ## Flowchart
 ![Flowchart](
-VC.drawio.png)
+Palin.drawio.png)
 
 ---
 
