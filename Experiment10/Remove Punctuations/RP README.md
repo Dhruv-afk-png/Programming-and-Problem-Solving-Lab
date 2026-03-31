@@ -23,7 +23,7 @@ Write a Python program to remove all punctuation marks from a given string and p
 
 ## Flowchart
 ![Flowchart](
-Palin.drawio.png)
+RP.drawio.png)
 
 ---
 
