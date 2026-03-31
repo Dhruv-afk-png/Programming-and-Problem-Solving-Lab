@@ -8,10 +8,15 @@ Write a program that takes a string as input and prints the total count of vowel
 1.Start
 
 2.Read string st
+
 3.Set count = 0
+
 4.Traverse each character of string
+
 5.If character is vowel → count = count + 1
+
 6.Print count
+
 7.Stop
 
 ---
