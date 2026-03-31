@@ -29,7 +29,7 @@ Write a Python program that prints the reverse of a given input string. The prog
 
 ## Flowchart
 ![Flowchart](
-RP.drawio.png)
+REV.drawio.png)
 
 ---
 
