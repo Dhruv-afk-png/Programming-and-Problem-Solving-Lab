@@ -7,15 +7,15 @@ Write a Python program that reads an integer, calculates the sum of its digits, 
 ## Algorithm
 1.Start
 
-2.Read string st
+2.Read number num
 
-3.Set new_str = ""
+3.If num == 0 → return 0
 
-4.Traverse each character
+4.Else → return last digit + sum of remaining digits
 
-5.If character is alphanumeric or space → add to new_str
+5.Call function
 
-6.Print new_str
+6.Print result
 
 7.Stop
 
