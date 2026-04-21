@@ -32,7 +32,7 @@ Step 7: Stop
 
 ## Flowchart
 ![Flowchart](
-Palin.drawio.png)
+Fibbo.drawio.png)
 
 ---
 
