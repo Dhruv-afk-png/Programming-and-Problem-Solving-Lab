@@ -30,6 +30,6 @@ Complex.drawio.png)
 
 ## Execution
 <p align="center">
-  <img src="Complex.png" width="900">
+  <img src="Car.png" width="900">
 </p>
 
