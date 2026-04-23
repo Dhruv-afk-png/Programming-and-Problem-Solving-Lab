@@ -48,7 +48,7 @@ Write a Python program to check if a given date is valid. If the date is valid, 
 
 ## Flowchart
 <p align="center">
-  <img src="Increment date.jpg" width="900">
+  <img src="Increment date.drawio.png" width="900">
 </p
 
 ---
